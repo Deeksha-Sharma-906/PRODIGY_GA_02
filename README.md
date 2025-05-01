@@ -6,4 +6,4 @@ Utilize pre-trained generative models like DALL-E-mini or Stable Diffusion to cr
 <br>3. https://towardsdatascience.com/e-dall-e-creating-digital-art-with-varying-aspect-ratios-5de260f4713d/
 <br>4. https://github.com/faizonly5953/Diffusion-Colab
 <br>
-<img src="C:\Users\sdeek\Desktop\InternJob\GenAI_Prodigy\Prodigy_GA_02\generated_image.png"
+<img src="C:\Users\sdeek\Desktop\InternJob\GenAI_Prodigy\Prodigy_GA_02\generated_image.png">
