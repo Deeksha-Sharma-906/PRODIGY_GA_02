@@ -1,2 +1,9 @@
 # PRODIGY_GA_02
-Intern at Prodigy Infotech, working on GenAI projects. This repository stores my projects and implementations.
+Utilize pre-trained generative models like DALL-E-mini or Stable Diffusion to create images from text prompts. References:
+
+<br>1. https://www.tensorflow.org/tutorials/generative/generate_images_with_stable_diffusion
+<br>2. https://colab.research.google.com/github/robgon-art/e-dall-e/blob/main/DALL_E_Mini_Image_Generator.ipynb
+<br>3. https://towardsdatascience.com/e-dall-e-creating-digital-art-with-varying-aspect-ratios-5de260f4713d/
+<br>4. https://github.com/faizonly5953/Diffusion-Colab
+<br>
+<img src="C:\Users\sdeek\Desktop\InternJob\GenAI_Prodigy\Prodigy_GA_02\generated_image.png"
